@@ -1,0 +1,16 @@
+{
+  "group": "stockade",
+  "key": {
+    "A": "minecraft:oak_log",
+    "B": "minecraft:oak_planks"
+  },
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "result": {
+    "count": 3,
+    "id": "mcwfences:oak_stockade_fence"
+  },
+  "type": "minecraft:crafting_shaped"
+}

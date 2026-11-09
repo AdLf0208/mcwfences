@@ -1,0 +1,15 @@
+{
+  "values": [
+		"mcwfences:oak_stockade_fence",
+        "mcwfences:spruce_stockade_fence",
+        "mcwfences:birch_stockade_fence",
+        "mcwfences:jungle_stockade_fence",
+        "mcwfences:acacia_stockade_fence",
+        "mcwfences:dark_oak_stockade_fence",
+        "mcwfences:crimson_stockade_fence",
+        "mcwfences:warped_stockade_fence",
+		"mcwfences:mangrove_stockade_fence",
+		"mcwfences:cherry_stockade_fence",
+		"mcwfences:bamboo_stockade_fence"
+  ]
+}

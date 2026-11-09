@@ -1,0 +1,48 @@
+id = "mcwfences"
+kind = "mod"
+name = "Macaw's Fences and Walls"
+summary = "150 Macaw's fences and gates: picket, stockade, horse, wired, hedge, walls and more."
+description = """
+A port of [Macaw's Fences and Walls](https://github.com/sketchmacaw/Fences) by Sketch Macaw and Peachy Macaw
+for Horizon: 150 fences, walls and gates.
+
+Implemented so far:
+- 150 blocks: 113 four-sided fences, hedges, bamboo, cheval-de-frise and stone/modern
+  walls on the vanilla fence template, and 37 highley, pyramid and railing gates on the
+  vanilla fence-gate template.
+- The mod's own blockstates, models, textures, 192 recipes, 180 loot tables, 27 tag
+  files, 22 advancements and 14 language files.
+- Fences connect to each other, to vanilla fences and to solid blocks, and `waterlogged`
+  works; gates read `in_wall` from the `minecraft:walls` tag and open on right-click or
+  redstone.
+- A creative tab (`itemGroup.mcwfences`) listing the 150 carried blocks.
+
+Not yet ported:
+- 30 blocks are not carried: 14 metal fences (a placed three-block column with its own
+  shape) and 16 curved/double gates (a two-block hinge); a vanilla template cannot
+  express them, so their models and textures are inert.
+- Wired fences do not damage entities that cross them (`entityInside` is code).
+- Fence items do not burn in a furnace (upstream's `FuelItemBlock`).
+- The two cheval-de-frise blocks use the vanilla fence outline and collision.
+- Stone and metal gates share the wooden template's strength and flammability.
+
+A data-tier carry: no native code and no hooks. MIT — the original copyright and licence notices are kept in
+the port repository (see LICENSE and LICENSE-NOTICE.md there). Pinned to
+Horizon 1d63e0a and horizon-mixins 5a64af93.
+"""
+authors = ["Sketch Macaw", "Peachy Macaw", "AdLf0208"]
+owners = ["AdLf0208"]
+owner_ids = [107615167]
+license = "MIT"
+source = "https://github.com/AdLf0208/mcwfences"
+icon = "icons/mcwfences.png"
+categories = ["decoration"]
+tags = ["port", "fences", "building", "blocks"]
+
+[[versions]]
+version = "1.2.1"
+published = "2026-11-09"
+game = "26.3"
+file = "mcwfences.hmod"
+sha256 = "7fb680f0ea708cfcda4becddef08705898fd0d7c6d8e42c91bafa3eec8d43dd7"
+changelog = "First release: the slice described above."

@@ -1,0 +1,9 @@
+{
+	"parent": "mcwfences:block/parent/double_gate_top_rh_2",
+	"textures": {
+		"1": "minecraft:block/cherry_log",
+		"3": "minecraft:block/cherry_planks",
+		"4": "minecraft:block/anvil",
+		"particle": "minecraft:block/cherry_planks"
+	}
+}

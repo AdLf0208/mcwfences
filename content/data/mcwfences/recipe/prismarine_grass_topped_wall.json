@@ -1,0 +1,17 @@
+{
+  "group": "grass_topped",
+  "key": {
+    "A": "minecraft:prismarine_bricks",
+    "B": "minecraft:prismarine",
+    "G": "minecraft:dirt"
+  },
+  "pattern": [
+    "BGB",
+    "AAA"
+  ],
+  "result": {
+    "count": 6,
+    "id": "mcwfences:prismarine_grass_topped_wall"
+  },
+  "type": "minecraft:crafting_shaped"
+}

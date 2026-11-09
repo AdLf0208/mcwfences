@@ -1,0 +1,16 @@
+{
+  "group": "highley",
+  "key": {
+    "A": "minecraft:stick",
+    "B": "minecraft:cherry_log"
+  },
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcwfences:cherry_highley_gate"
+  },
+  "type": "minecraft:crafting_shaped"
+}

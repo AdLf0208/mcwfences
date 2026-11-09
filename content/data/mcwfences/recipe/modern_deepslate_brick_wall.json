@@ -1,0 +1,16 @@
+{
+  "group": "modern",
+  "key": {
+    "A": "minecraft:deepslate_bricks",
+    "B": "minecraft:deepslate_tiles"
+  },
+  "pattern": [
+    "ABA",
+    "AAA"
+  ],
+  "result": {
+    "count": 6,
+    "id": "mcwfences:modern_deepslate_brick_wall"
+  },
+  "type": "minecraft:crafting_shaped"
+}

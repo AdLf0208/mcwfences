@@ -1,0 +1,17 @@
+{
+  "group": "picket",
+  "key": {
+    "A": "minecraft:stick",
+    "B": "minecraft:bamboo_planks",
+    "C": "minecraft:stripped_bamboo_block"
+  },
+  "pattern": [
+    "CBC",
+    "CAC"
+  ],
+  "result": {
+    "count": 3,
+    "id": "mcwfences:bamboo_picket_fence"
+  },
+  "type": "minecraft:crafting_shaped"
+}

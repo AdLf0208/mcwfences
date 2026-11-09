@@ -1,0 +1,17 @@
+{
+  "group": "wired",
+  "key": {
+    "A": "minecraft:stick",
+    "B": "minecraft:mangrove_log",
+    "C": "minecraft:iron_bars"
+  },
+  "pattern": [
+    "ACA",
+    "ABA"
+  ],
+  "result": {
+    "count": 3,
+    "id": "mcwfences:mangrove_wired_fence"
+  },
+  "type": "minecraft:crafting_shaped"
+}

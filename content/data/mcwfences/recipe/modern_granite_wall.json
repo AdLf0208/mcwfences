@@ -1,0 +1,16 @@
+{
+  "group": "modern",
+  "key": {
+    "A": "minecraft:polished_granite",
+    "B": "minecraft:granite"
+  },
+  "pattern": [
+    "ABA",
+    "AAA"
+  ],
+  "result": {
+    "count": 6,
+    "id": "mcwfences:modern_granite_wall"
+  },
+  "type": "minecraft:crafting_shaped"
+}

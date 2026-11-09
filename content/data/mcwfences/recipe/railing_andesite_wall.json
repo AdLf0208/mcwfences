@@ -1,0 +1,16 @@
+{
+  "group": "railing_wall",
+  "key": {
+    "A": "minecraft:polished_andesite",
+    "B": "minecraft:iron_bars"
+  },
+  "pattern": [
+    "ABA",
+    "AAA"
+  ],
+  "result": {
+    "count": 6,
+    "id": "mcwfences:railing_andesite_wall"
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,0 +1,10 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/wired_fence_post",
+	"textures": {
+		"1": "minecraft:block/stripped_bamboo_block",
+		"particle": "minecraft:block/stripped_bamboo_block",
+		"texture": "minecraft:block/stripped_bamboo_block"
+	}
+}

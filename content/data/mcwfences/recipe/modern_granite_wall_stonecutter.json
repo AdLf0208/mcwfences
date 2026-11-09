@@ -1,0 +1,9 @@
+{
+  "group": "fences",
+  "ingredient": "minecraft:granite",
+  "result": {
+    "count": 1,
+    "id": "mcwfences:modern_granite_wall"
+  },
+  "type": "minecraft:stonecutting"
+}

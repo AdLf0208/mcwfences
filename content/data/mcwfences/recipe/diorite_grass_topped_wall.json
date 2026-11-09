@@ -1,0 +1,17 @@
+{
+  "group": "grass_topped",
+  "key": {
+    "A": "minecraft:polished_diorite",
+    "B": "minecraft:diorite",
+    "G": "minecraft:dirt"
+  },
+  "pattern": [
+    "BGB",
+    "AAA"
+  ],
+  "result": {
+    "count": 6,
+    "id": "mcwfences:diorite_grass_topped_wall"
+  },
+  "type": "minecraft:crafting_shaped"
+}

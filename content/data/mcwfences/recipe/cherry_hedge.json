@@ -1,0 +1,15 @@
+{
+  "group": "hedge",
+  "key": {
+    "A": "minecraft:cherry_leaves"
+  },
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "result": {
+    "count": 4,
+    "id": "mcwfences:cherry_hedge"
+  },
+  "type": "minecraft:crafting_shaped"
+}

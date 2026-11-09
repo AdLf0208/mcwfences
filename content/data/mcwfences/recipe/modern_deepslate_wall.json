@@ -1,0 +1,16 @@
+{
+  "group": "modern",
+  "key": {
+    "A": "minecraft:polished_deepslate",
+    "B": "minecraft:deepslate"
+  },
+  "pattern": [
+    "ABA",
+    "AAA"
+  ],
+  "result": {
+    "count": 6,
+    "id": "mcwfences:modern_deepslate_wall"
+  },
+  "type": "minecraft:crafting_shaped"
+}

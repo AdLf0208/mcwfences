@@ -1,0 +1,16 @@
+{
+  "group": "modern",
+  "key": {
+    "A": "minecraft:nether_bricks",
+    "B": "minecraft:netherrack"
+  },
+  "pattern": [
+    "ABA",
+    "AAA"
+  ],
+  "result": {
+    "count": 6,
+    "id": "mcwfences:modern_nether_brick_wall"
+  },
+  "type": "minecraft:crafting_shaped"
+}

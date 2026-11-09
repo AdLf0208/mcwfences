@@ -1,0 +1,16 @@
+{
+  "group": "pillarwall",
+  "key": {
+    "A": "minecraft:prismarine_bricks",
+    "B": "minecraft:prismarine"
+  },
+  "pattern": [
+    "AAA",
+    "B B"
+  ],
+  "result": {
+    "count": 5,
+    "id": "mcwfences:prismarine_pillar_wall"
+  },
+  "type": "minecraft:crafting_shaped"
+}

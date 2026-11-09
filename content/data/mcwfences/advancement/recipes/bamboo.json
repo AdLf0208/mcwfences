@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+	  "mcwfences:bamboo_fence",
+	  "mcwfences:bamboo_picket_fence",
+	  "mcwfences:bamboo_stockade_fence",
+	  "mcwfences:bamboo_horse_fence",
+	  "mcwfences:bamboo_wired_fence",
+	  "mcwfences:bamboo_highley_gate",
+	  "mcwfences:bamboo_pyramid_gate",
+	  "mcwfences:bamboo_curved_gate"
+    ]
+  },
+  "criteria": {
+    "has_bamboo": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:bamboo"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_bamboo"
+    ]
+  ]
+}

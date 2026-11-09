@@ -1,0 +1,9 @@
+{
+  "group": "fences",
+  "ingredient": "minecraft:sandstone",
+  "result": {
+    "count": 1,
+    "id": "mcwfences:railing_sandstone_wall"
+  },
+  "type": "minecraft:stonecutting"
+}

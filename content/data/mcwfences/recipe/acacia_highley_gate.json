@@ -1,0 +1,16 @@
+{
+  "group": "highley",
+  "key": {
+    "A": "minecraft:stick",
+    "B": "minecraft:acacia_log"
+  },
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcwfences:acacia_highley_gate"
+  },
+  "type": "minecraft:crafting_shaped"
+}

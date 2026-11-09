@@ -1,0 +1,9 @@
+{
+  "group": "fences",
+  "ingredient": "minecraft:diorite",
+  "result": {
+    "count": 1,
+    "id": "mcwfences:diorite_railing_gate"
+  },
+  "type": "minecraft:stonecutting"
+}

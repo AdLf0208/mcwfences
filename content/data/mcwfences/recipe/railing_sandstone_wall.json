@@ -1,0 +1,16 @@
+{
+  "group": "railing_wall",
+  "key": {
+    "A": "minecraft:smooth_sandstone",
+    "B": "minecraft:iron_bars"
+  },
+  "pattern": [
+    "ABA",
+    "AAA"
+  ],
+  "result": {
+    "count": 6,
+    "id": "mcwfences:railing_sandstone_wall"
+  },
+  "type": "minecraft:crafting_shaped"
+}

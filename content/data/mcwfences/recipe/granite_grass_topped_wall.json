@@ -1,0 +1,17 @@
+{
+  "group": "grass_topped",
+  "key": {
+    "A": "minecraft:polished_granite",
+    "B": "minecraft:granite",
+    "G": "minecraft:dirt"
+  },
+  "pattern": [
+    "BGB",
+    "AAA"
+  ],
+  "result": {
+    "count": 6,
+    "id": "mcwfences:granite_grass_topped_wall"
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,0 +1,16 @@
+{
+  "group": "modern",
+  "key": {
+    "A": "minecraft:quartz_bricks",
+    "B": "minecraft:quartz_block"
+  },
+  "pattern": [
+    "ABA",
+    "AAA"
+  ],
+  "result": {
+    "count": 6,
+    "id": "mcwfences:modern_quartz_wall"
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "mcwfences:block/parent/cheval_fence_post",
+	"textures": {
+		"particle": "minecraft:block/anvil",
+		"1": "minecraft:block/anvil"
+	}
+}

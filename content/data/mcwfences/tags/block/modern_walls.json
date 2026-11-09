@@ -1,0 +1,17 @@
+{
+  "values": [
+		"mcwfences:modern_stone_brick_wall",
+        "mcwfences:modern_andesite_wall",
+        "mcwfences:modern_diorite_wall",
+        "mcwfences:modern_granite_wall",
+        "mcwfences:modern_end_brick_wall",
+        "mcwfences:modern_nether_brick_wall",
+        "mcwfences:modern_blackstone_wall",
+        "mcwfences:modern_sandstone_wall",
+        "mcwfences:modern_red_sandstone_wall",
+		"mcwfences:modern_deepslate_brick_wall",
+		"mcwfences:modern_deepslate_wall",
+		"mcwfences:modern_quartz_wall",
+		"mcwfences:modern_mud_brick_wall"
+  ]
+}

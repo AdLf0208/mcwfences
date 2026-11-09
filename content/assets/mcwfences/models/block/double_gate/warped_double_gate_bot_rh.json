@@ -1,0 +1,9 @@
+{
+	"parent": "mcwfences:block/parent/double_gate_bot_rh",
+	"textures": {
+		"1": "minecraft:block/warped_planks",
+		"3": "minecraft:block/warped_stem",
+		"4": "minecraft:block/anvil",
+		"particle": "minecraft:block/warped_planks"
+	}
+}
