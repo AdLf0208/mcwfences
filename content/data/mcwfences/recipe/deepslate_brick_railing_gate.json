@@ -1,0 +1,16 @@
+{
+  "group": "railing_gate",
+  "key": {
+    "A": "minecraft:iron_bars",
+    "B": "minecraft:deepslate_bricks"
+  },
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcwfences:deepslate_brick_railing_gate"
+  },
+  "type": "minecraft:crafting_shaped"
+}

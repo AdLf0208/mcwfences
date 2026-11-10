@@ -1,0 +1,8 @@
+{
+  "parent": "mcwfences:block/parent/metal_fence",
+  "render_type": "cutout",
+  "textures": {
+       "1": "mcwfences:block/panelled_fence_top",
+	   "particle": "mcwfences:block/panelled_fence_top"
+  }
+}

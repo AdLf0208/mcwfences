@@ -1,0 +1,7 @@
+{
+	"parent": "mcwfences:block/parent/cheval_fence_post",
+	"textures": {
+		"particle": "minecraft:block/oak_log",
+		"1": "minecraft:block/oak_log"
+	}
+}

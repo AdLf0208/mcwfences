@@ -1,0 +1,8 @@
+{
+  "parent": "mcwfences:block/parent/metal_fence",
+  "render_type": "cutout",
+  "textures": {
+       "1": "mcwfences:block/double_curved_fence_middle",
+	   "particle": "mcwfences:block/double_curved_fence_middle"
+  }
+}

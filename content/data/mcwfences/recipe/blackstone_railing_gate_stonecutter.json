@@ -1,0 +1,9 @@
+{
+  "group": "fences",
+  "ingredient": "minecraft:blackstone",
+  "result": {
+    "count": 1,
+    "id": "mcwfences:blackstone_railing_gate"
+  },
+  "type": "minecraft:stonecutting"
+}

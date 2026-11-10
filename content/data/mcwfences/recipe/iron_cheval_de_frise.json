@@ -1,0 +1,16 @@
+{
+  "group": "cheval",
+  "key": {
+    "A": "minecraft:iron_nugget",
+    "B": "minecraft:iron_ingot"
+  },
+  "pattern": [
+    "BAB",
+    "B B"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcwfences:iron_cheval_de_frise"
+  },
+  "type": "minecraft:crafting_shaped"
+}

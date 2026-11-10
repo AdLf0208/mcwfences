@@ -1,0 +1,18 @@
+{
+  "values": [
+		"mcwfences:railing_stone_brick_wall",
+        "mcwfences:railing_andesite_wall",
+        "mcwfences:railing_diorite_wall",
+        "mcwfences:railing_granite_wall",
+        "mcwfences:railing_end_brick_wall",
+        "mcwfences:railing_nether_brick_wall",
+        "mcwfences:railing_blackstone_wall",
+        "mcwfences:railing_sandstone_wall",
+        "mcwfences:railing_red_sandstone_wall",
+		"mcwfences:railing_deepslate_brick_wall",
+		"mcwfences:railing_deepslate_wall",
+		"mcwfences:railing_quartz_wall",
+		"mcwfences:railing_mud_brick_wall",
+		"mcwfences:railing_prismarine_wall"
+  ]
+}

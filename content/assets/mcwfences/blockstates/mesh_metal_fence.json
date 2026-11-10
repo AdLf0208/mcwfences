@@ -1,0 +1,95 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "mcwfences:block/parent/metal_post"
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+		"fencepart": "top"
+      },
+      "apply": {
+        "model": "mcwfences:block/metal_fences/mesh_metal_top",
+        "uvlock": false
+      }
+    },
+    {
+      "when": {
+        "east": "true",
+		"fencepart": "top"
+      },
+      "apply": {
+        "model": "mcwfences:block/metal_fences/mesh_metal_top",
+        "y": 90,
+        "uvlock": false
+      }
+    },
+    {
+      "when": {
+        "south": "true",
+		"fencepart": "top"
+      },
+      "apply": {
+        "model": "mcwfences:block/metal_fences/mesh_metal_top",
+        "y": 180,
+        "uvlock": false
+      }
+    },
+    {
+      "when": {
+        "west": "true",
+		"fencepart": "top"
+      },
+      "apply": {
+        "model": "mcwfences:block/metal_fences/mesh_metal_top",
+        "y": 270,
+        "uvlock": false
+      }
+    },
+	{
+      "when": {
+        "north": "true",
+		"fencepart": "bottom"
+      },
+      "apply": {
+        "model": "mcwfences:block/metal_fences/mesh_metal_bottom",
+        "uvlock": false
+      }
+    },
+    {
+      "when": {
+        "east": "true",
+		"fencepart": "bottom"
+      },
+      "apply": {
+        "model": "mcwfences:block/metal_fences/mesh_metal_bottom",
+        "y": 90,
+        "uvlock": false
+      }
+    },
+    {
+      "when": {
+        "south": "true",
+		"fencepart": "bottom"
+      },
+      "apply": {
+        "model": "mcwfences:block/metal_fences/mesh_metal_bottom",
+        "y": 180,
+        "uvlock": false
+      }
+    },
+    {
+      "when": {
+        "west": "true",
+		"fencepart": "bottom"
+      },
+      "apply": {
+        "model": "mcwfences:block/metal_fences/mesh_metal_bottom",
+        "y": 270,
+        "uvlock": false
+      }
+    }
+  ]
+}

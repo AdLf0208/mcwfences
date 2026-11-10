@@ -1,0 +1,9 @@
+{
+  "group": "fences",
+  "ingredient": "minecraft:polished_deepslate",
+  "result": {
+    "count": 1,
+    "id": "mcwfences:deepslate_railing_gate"
+  },
+  "type": "minecraft:stonecutting"
+}

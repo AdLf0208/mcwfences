@@ -1,0 +1,9 @@
+{
+  "group": "fences",
+  "ingredient": "minecraft:deepslate_bricks",
+  "result": {
+    "count": 1,
+    "id": "mcwfences:railing_deepslate_brick_wall"
+  },
+  "type": "minecraft:stonecutting"
+}

@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "mcwfences:block/parent/inventory/metal_fence",
+	"textures": {
+		"1": "mcwfences:block/railings_texture",
+		"2": "mcwfences:block/expanded_mesh_fence_top",
+		"particle": "mcwfences:block/expanded_mesh_fence_top"
+	}
+}

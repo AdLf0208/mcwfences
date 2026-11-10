@@ -1,0 +1,16 @@
+{
+  "group": "modern",
+  "key": {
+    "A": "minecraft:polished_andesite",
+    "B": "minecraft:andesite"
+  },
+  "pattern": [
+    "ABA",
+    "AAA"
+  ],
+  "result": {
+    "count": 6,
+    "id": "mcwfences:modern_andesite_wall"
+  },
+  "type": "minecraft:crafting_shaped"
+}

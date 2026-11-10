@@ -1,0 +1,16 @@
+{
+  "group": "stockade",
+  "key": {
+    "A": "minecraft:jungle_log",
+    "B": "minecraft:jungle_planks"
+  },
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "result": {
+    "count": 3,
+    "id": "mcwfences:jungle_stockade_fence"
+  },
+  "type": "minecraft:crafting_shaped"
+}

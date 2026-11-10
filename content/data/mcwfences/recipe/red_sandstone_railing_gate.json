@@ -1,0 +1,16 @@
+{
+  "group": "railing_gate",
+  "key": {
+    "A": "minecraft:iron_bars",
+    "B": "minecraft:red_sandstone"
+  },
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcwfences:red_sandstone_railing_gate"
+  },
+  "type": "minecraft:crafting_shaped"
+}

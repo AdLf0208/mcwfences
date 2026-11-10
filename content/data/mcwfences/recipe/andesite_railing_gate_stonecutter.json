@@ -1,0 +1,9 @@
+{
+  "group": "fences",
+  "ingredient": "minecraft:andesite",
+  "result": {
+    "count": 1,
+    "id": "mcwfences:andesite_railing_gate"
+  },
+  "type": "minecraft:stonecutting"
+}

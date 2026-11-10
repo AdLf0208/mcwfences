@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"render_type": "cutout",
+	"textures": {
+       "1": "mcwfences:block/railings_texture",
+	   "particle": "mcwfences:block/railings_texture"
+  },
+	"elements": [
+		{
+			"from": [7.25, 0, 7.25],
+			"to": [8.75, 16, 8.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.8, 0, 5.2]},
+			"faces": {
+				"north": {"uv": [8, 0, 10, 16], "texture": "#1"},
+				"east": {"uv": [8, 0, 10, 16], "texture": "#1"},
+				"south": {"uv": [8, 0, 10, 16], "texture": "#1"},
+				"west": {"uv": [8, 0, 10, 16], "texture": "#1"},
+				"up": {"uv": [8, 0, 10, 2], "texture": "#1"},
+				"down": {"uv": [8, 0, 10, 2], "texture": "#1"}
+			}
+		}
+	]
+}

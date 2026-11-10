@@ -1,0 +1,16 @@
+{
+  "group": "pillarwall",
+  "key": {
+    "A": "minecraft:end_stone_bricks",
+    "B": "minecraft:end_stone"
+  },
+  "pattern": [
+    "AAA",
+    "B B"
+  ],
+  "result": {
+    "count": 5,
+    "id": "mcwfences:end_brick_pillar_wall"
+  },
+  "type": "minecraft:crafting_shaped"
+}

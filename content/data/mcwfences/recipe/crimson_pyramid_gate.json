@@ -1,0 +1,17 @@
+{
+  "group": "pyramid",
+  "key": {
+    "A": "minecraft:stick",
+    "B": "minecraft:crimson_stem",
+    "C": "minecraft:crimson_planks"
+  },
+  "pattern": [
+    "ABA",
+    "ACA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcwfences:crimson_pyramid_gate"
+  },
+  "type": "minecraft:crafting_shaped"
+}

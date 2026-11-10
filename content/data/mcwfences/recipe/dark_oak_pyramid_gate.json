@@ -1,0 +1,17 @@
+{
+  "group": "pyramid",
+  "key": {
+    "A": "minecraft:stick",
+    "B": "minecraft:dark_oak_log",
+    "C": "minecraft:dark_oak_planks"
+  },
+  "pattern": [
+    "ABA",
+    "ACA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcwfences:dark_oak_pyramid_gate"
+  },
+  "type": "minecraft:crafting_shaped"
+}

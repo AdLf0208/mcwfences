@@ -1,0 +1,16 @@
+{
+  "group": "railing_gate",
+  "key": {
+    "A": "minecraft:iron_bars",
+    "B": "minecraft:end_stone_bricks"
+  },
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcwfences:end_brick_railing_gate"
+  },
+  "type": "minecraft:crafting_shaped"
+}

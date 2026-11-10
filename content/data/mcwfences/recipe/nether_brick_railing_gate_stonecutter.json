@@ -1,0 +1,9 @@
+{
+  "group": "fences",
+  "ingredient": "minecraft:nether_bricks",
+  "result": {
+    "count": 1,
+    "id": "mcwfences:nether_brick_railing_gate"
+  },
+  "type": "minecraft:stonecutting"
+}

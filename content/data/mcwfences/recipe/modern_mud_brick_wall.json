@@ -1,0 +1,16 @@
+{
+  "group": "modern",
+  "key": {
+    "A": "minecraft:packed_mud",
+    "B": "minecraft:mud_bricks"
+  },
+  "pattern": [
+    "ABA",
+    "AAA"
+  ],
+  "result": {
+    "count": 6,
+    "id": "mcwfences:modern_mud_brick_wall"
+  },
+  "type": "minecraft:crafting_shaped"
+}

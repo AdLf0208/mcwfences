@@ -1,0 +1,17 @@
+{
+  "group": "pyramid",
+  "key": {
+    "A": "minecraft:stick",
+    "B": "minecraft:cherry_log",
+    "C": "minecraft:cherry_planks"
+  },
+  "pattern": [
+    "ABA",
+    "ACA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcwfences:cherry_pyramid_gate"
+  },
+  "type": "minecraft:crafting_shaped"
+}

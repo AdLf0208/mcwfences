@@ -1,0 +1,9 @@
+{
+	"parent": "mcwfences:block/parent/double_gate_top",
+	"textures": {
+		"1": "minecraft:block/bamboo_planks",
+		"3": "minecraft:block/stripped_bamboo_block",
+		"4": "minecraft:block/anvil",
+		"particle": "minecraft:block/bamboo_planks"
+	}
+}

@@ -1,0 +1,16 @@
+{
+  "group": "railing_wall",
+  "key": {
+    "A": "minecraft:polished_diorite",
+    "B": "minecraft:iron_bars"
+  },
+  "pattern": [
+    "ABA",
+    "AAA"
+  ],
+  "result": {
+    "count": 6,
+    "id": "mcwfences:railing_diorite_wall"
+  },
+  "type": "minecraft:crafting_shaped"
+}

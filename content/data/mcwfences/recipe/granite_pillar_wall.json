@@ -1,0 +1,16 @@
+{
+  "group": "pillarwall",
+  "key": {
+    "A": "minecraft:polished_granite",
+    "B": "minecraft:granite"
+  },
+  "pattern": [
+    "AAA",
+    "B B"
+  ],
+  "result": {
+    "count": 5,
+    "id": "mcwfences:granite_pillar_wall"
+  },
+  "type": "minecraft:crafting_shaped"
+}

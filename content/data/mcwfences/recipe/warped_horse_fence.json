@@ -1,0 +1,16 @@
+{
+  "group": "horse",
+  "key": {
+    "A": "minecraft:warped_stem",
+    "B": "minecraft:stick"
+  },
+  "pattern": [
+    "ABA",
+    "BAB"
+  ],
+  "result": {
+    "count": 3,
+    "id": "mcwfences:warped_horse_fence"
+  },
+  "type": "minecraft:crafting_shaped"
+}

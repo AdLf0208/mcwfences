@@ -1,0 +1,16 @@
+{
+  "group": "railing_wall",
+  "key": {
+    "A": "minecraft:quartz_block",
+    "B": "minecraft:iron_bars"
+  },
+  "pattern": [
+    "ABA",
+    "AAA"
+  ],
+  "result": {
+    "count": 6,
+    "id": "mcwfences:railing_quartz_wall"
+  },
+  "type": "minecraft:crafting_shaped"
+}
