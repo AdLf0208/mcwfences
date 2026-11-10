@@ -1,0 +1,16 @@
+{
+  "group": "railing_gate",
+  "key": {
+    "A": "minecraft:iron_bars",
+    "B": "minecraft:polished_blackstone_bricks"
+  },
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcwfences:blackstone_brick_railing_gate"
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,0 +1,16 @@
+{
+  "group": "pillarwall",
+  "key": {
+    "A": "minecraft:polished_andesite",
+    "B": "minecraft:andesite"
+  },
+  "pattern": [
+    "AAA",
+    "B B"
+  ],
+  "result": {
+    "count": 5,
+    "id": "mcwfences:andesite_pillar_wall"
+  },
+  "type": "minecraft:crafting_shaped"
+}

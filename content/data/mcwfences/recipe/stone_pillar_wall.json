@@ -1,0 +1,16 @@
+{
+  "group": "pillarwall",
+  "key": {
+    "A": "minecraft:stone_bricks",
+    "B": "minecraft:cobblestone"
+  },
+  "pattern": [
+    "AAA",
+    "B B"
+  ],
+  "result": {
+    "count": 5,
+    "id": "mcwfences:stone_pillar_wall"
+  },
+  "type": "minecraft:crafting_shaped"
+}

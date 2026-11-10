@@ -1,0 +1,16 @@
+{
+  "group": "horse",
+  "key": {
+    "A": "minecraft:acacia_log",
+    "B": "minecraft:stick"
+  },
+  "pattern": [
+    "ABA",
+    "BAB"
+  ],
+  "result": {
+    "count": 3,
+    "id": "mcwfences:acacia_horse_fence"
+  },
+  "type": "minecraft:crafting_shaped"
+}

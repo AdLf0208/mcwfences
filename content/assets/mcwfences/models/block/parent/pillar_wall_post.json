@@ -1,0 +1,51 @@
+{
+	"credit": "Made with Blockbench",
+	"render_type": "cutout",
+	"textures": {
+		"1": "mcwfences:block/cobblestone",
+		"particle": "mcwfences:block/cobblestone",
+		"wall": "mcwfences:block/stone_bricks"
+	},
+	"elements": [
+		{
+			"name": "wall",
+			"from": [5, 0, 5],
+			"to": [11, 4, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -3, 8]},
+			"faces": {
+				"north": {"uv": [9, 11, 15, 15], "texture": "#wall"},
+				"east": {"uv": [9, 11, 15, 15], "texture": "#wall"},
+				"south": {"uv": [9, 11, 15, 15], "texture": "#wall"},
+				"west": {"uv": [9, 11, 15, 15], "texture": "#wall"},
+				"up": {"uv": [5, 1, 11, 7], "rotation": 90, "texture": "#wall"},
+				"down": {"uv": [5, 1, 11, 7], "texture": "#wall"}
+			}
+		},
+		{
+			"name": "wall",
+			"from": [6, 4, 6],
+			"to": [10, 14, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -3, 8]},
+			"faces": {
+				"north": {"uv": [0, 6, 4, 16], "texture": "#1"},
+				"east": {"uv": [12, 6, 16, 16], "texture": "#1"},
+				"south": {"uv": [8, 6, 12, 16], "texture": "#1"},
+				"west": {"uv": [4, 6, 8, 16], "texture": "#1"}
+			}
+		},
+		{
+			"name": "wall",
+			"from": [5, 14, 5],
+			"to": [11, 16, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -3, 8]},
+			"faces": {
+				"north": {"uv": [1, 8, 7, 10], "texture": "#wall"},
+				"east": {"uv": [1, 8, 7, 10], "texture": "#wall"},
+				"south": {"uv": [1, 8, 7, 10], "texture": "#wall"},
+				"west": {"uv": [1, 8, 7, 10], "texture": "#wall"},
+				"up": {"uv": [9, 0, 15, 6], "rotation": 90, "texture": "#wall"},
+				"down": {"uv": [1, 1, 7, 7], "rotation": 90, "texture": "#wall"}
+			}
+		}
+	]
+}

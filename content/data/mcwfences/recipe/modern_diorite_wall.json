@@ -1,0 +1,16 @@
+{
+  "group": "modern",
+  "key": {
+    "A": "minecraft:polished_diorite",
+    "B": "minecraft:diorite"
+  },
+  "pattern": [
+    "ABA",
+    "AAA"
+  ],
+  "result": {
+    "count": 6,
+    "id": "mcwfences:modern_diorite_wall"
+  },
+  "type": "minecraft:crafting_shaped"
+}

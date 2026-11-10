@@ -1,0 +1,16 @@
+{
+  "group": "railing_wall",
+  "key": {
+    "A": "minecraft:stone_bricks",
+    "B": "minecraft:iron_bars"
+  },
+  "pattern": [
+    "ABA",
+    "AAA"
+  ],
+  "result": {
+    "count": 6,
+    "id": "mcwfences:railing_stone_brick_wall"
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,0 +1,15 @@
+{
+	"credit": "Made with Blockbench",
+	"render_type": "cutout",
+	"elements": [
+		{
+			"from": [8, 0, 0],
+			"to": [8, 16, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.6, 0, 2]},
+			"faces": {
+				"east": {"uv": [16, 0, 8, 16], "texture": "#1"},
+				"west": {"uv": [8, 0, 0, 16], "texture": "#1"}
+			}
+		}
+	]
+}

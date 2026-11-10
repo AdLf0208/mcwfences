@@ -1,0 +1,17 @@
+{
+  "group": "grass_topped",
+  "key": {
+    "A": "minecraft:nether_bricks",
+    "B": "minecraft:netherrack",
+    "G": "minecraft:dirt"
+  },
+  "pattern": [
+    "BGB",
+    "AAA"
+  ],
+  "result": {
+    "count": 6,
+    "id": "mcwfences:nether_brick_grass_topped_wall"
+  },
+  "type": "minecraft:crafting_shaped"
+}

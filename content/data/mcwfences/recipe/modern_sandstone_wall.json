@@ -1,0 +1,16 @@
+{
+  "group": "modern",
+  "key": {
+    "A": "minecraft:smooth_sandstone",
+    "B": "minecraft:sandstone"
+  },
+  "pattern": [
+    "ABA",
+    "AAA"
+  ],
+  "result": {
+    "count": 6,
+    "id": "mcwfences:modern_sandstone_wall"
+  },
+  "type": "minecraft:crafting_shaped"
+}

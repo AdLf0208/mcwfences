@@ -1,0 +1,16 @@
+{
+  "group": "pillarwall",
+  "key": {
+    "A": "minecraft:smooth_sandstone",
+    "B": "minecraft:sandstone"
+  },
+  "pattern": [
+    "AAA",
+    "B B"
+  ],
+  "result": {
+    "count": 5,
+    "id": "mcwfences:sandstone_pillar_wall"
+  },
+  "type": "minecraft:crafting_shaped"
+}

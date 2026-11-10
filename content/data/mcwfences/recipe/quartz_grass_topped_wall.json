@@ -1,0 +1,17 @@
+{
+  "group": "grass_topped",
+  "key": {
+    "A": "minecraft:quartz_bricks",
+    "B": "minecraft:quartz_block",
+    "G": "minecraft:dirt"
+  },
+  "pattern": [
+    "BGB",
+    "AAA"
+  ],
+  "result": {
+    "count": 6,
+    "id": "mcwfences:quartz_grass_topped_wall"
+  },
+  "type": "minecraft:crafting_shaped"
+}

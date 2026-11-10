@@ -1,0 +1,16 @@
+{
+  "group": "highley",
+  "key": {
+    "A": "minecraft:stick",
+    "B": "minecraft:crimson_stem"
+  },
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcwfences:crimson_highley_gate"
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "mcwfences:block/parent/metal_fence",
+  "render_type": "cutout",
+  "textures": {
+       "1": "mcwfences:block/gothic_fence_middle",
+	   "particle": "mcwfences:block/gothic_fence_middle"
+  }
+}

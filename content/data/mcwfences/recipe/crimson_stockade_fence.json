@@ -1,0 +1,16 @@
+{
+  "group": "stockade",
+  "key": {
+    "A": "minecraft:crimson_stem",
+    "B": "minecraft:crimson_planks"
+  },
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "result": {
+    "count": 3,
+    "id": "mcwfences:crimson_stockade_fence"
+  },
+  "type": "minecraft:crafting_shaped"
+}

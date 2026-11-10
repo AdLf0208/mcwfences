@@ -1,0 +1,16 @@
+{
+  "group": "pillarwall",
+  "key": {
+    "A": "minecraft:packed_mud",
+    "B": "minecraft:mud_bricks"
+  },
+  "pattern": [
+    "AAA",
+    "B B"
+  ],
+  "result": {
+    "count": 5,
+    "id": "mcwfences:mud_brick_pillar_wall"
+  },
+  "type": "minecraft:crafting_shaped"
+}

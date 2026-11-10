@@ -1,0 +1,16 @@
+{
+  "group": "stockade",
+  "key": {
+    "A": "minecraft:cherry_log",
+    "B": "minecraft:cherry_planks"
+  },
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "result": {
+    "count": 3,
+    "id": "mcwfences:cherry_stockade_fence"
+  },
+  "type": "minecraft:crafting_shaped"
+}

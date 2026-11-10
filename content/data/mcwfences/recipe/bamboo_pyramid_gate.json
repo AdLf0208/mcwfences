@@ -1,0 +1,17 @@
+{
+  "group": "pyramid",
+  "key": {
+    "A": "minecraft:stick",
+    "B": "minecraft:stripped_bamboo_block",
+    "C": "minecraft:bamboo_planks"
+  },
+  "pattern": [
+    "ABA",
+    "ACA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcwfences:bamboo_pyramid_gate"
+  },
+  "type": "minecraft:crafting_shaped"
+}
